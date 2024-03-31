@@ -1,9 +1,8 @@
 {
-  "name": "metrics",
+  "name": "metricnode",
   "version": "1.0.0",
   "description": "metrics conversion",
   "main": "main.js",
-  "git repository": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/varshiniI3/metrics.git"
+    "url": "https://github.com/varshiniI3/metricnode.git"
   }
 }
