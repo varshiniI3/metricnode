@@ -1,0 +1,16 @@
+{
+  "name": "metrics",
+  "version": "1.0.0",
+  "description": "metrics conversion",
+  "main": "main.js",
+  "git repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varshini",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varshiniI3/metrics.git"
+  }
+}
